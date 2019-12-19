@@ -147,3 +147,5 @@ int main()
 	}
 
 }
+
+// Written by Vladimir Dragun. November, 2019.
